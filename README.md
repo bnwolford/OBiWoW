@@ -12,7 +12,7 @@ Oslo Bioinformatics Workshop Week
 | 8:30 - 9 | Set-up troubleshooting | onboarding.md |
 | 9-10 | Module: tidyr and dplyr | LINK |
 | 10-11 | Activity: Using Sensitive Health Data | LINK |
-| 11-12 | 
+| 11-12 | Module: ggplot2 | LINK |
 | 12-13 | Lunch | |
 | 13-14 | Module: tidymodels | LINK | 
 | 14-15 | Activity: Modeling Sensitive Health Data | LINK |
